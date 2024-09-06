@@ -6,7 +6,8 @@
 
 ## 注意事项
 
-- 已经和 github 做连接了666
+- 已经和 github 做连接了
+- 此项目后续可能会有多个游戏板块，访问地址应为如： https://twp0/h5-game-development/xxx游戏名
 
 ## 功能
 
